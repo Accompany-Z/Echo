@@ -104,11 +104,11 @@ const setting: ProjectConfig = {
     // 菜单宽度
     menuWidth: 210,
     // 菜单模式
-    mode: MenuModeEnum.INLINE,
+    mode: MenuModeEnum.HORIZONTAL,
     // 菜单类型
-    type: MenuTypeEnum.SIDEBAR,
+    type: MenuTypeEnum.TOP_MENU,
     // 菜单主题
-    theme: ThemeEnum.DARK,
+    theme: ThemeEnum.LIGHT,
     // 分割菜单
     split: false,
     // 顶部菜单布局
@@ -140,7 +140,7 @@ const setting: ProjectConfig = {
     // 是否显示折叠按钮
     showFold: true,
     // 标签页样式
-    theme: TabsThemeEnum.CARD,
+    theme: TabsThemeEnum.SMOOTH,
   },
 
   // 动画配置

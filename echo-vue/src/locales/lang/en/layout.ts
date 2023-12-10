@@ -2,7 +2,6 @@ export default {
   footer: { onlinePreview: 'Preview', onlineDocument: 'Document' },
   header: {
     // user dropdown
-    dropdownItemDoc: 'Document',
     dropdownItemLoginOut: 'Login Out',
     dropdownItemSwitchPassword: 'Password Change',
     dropdownItemSwitchDepart: 'Switch Department',

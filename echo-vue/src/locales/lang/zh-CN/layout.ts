@@ -2,7 +2,6 @@ export default {
   footer: { onlinePreview: 'JEECG首页', onlineDocument: '在线文档' },
   header: {
     // user dropdown
-    dropdownItemDoc: '官网',
     dropdownItemLoginOut: '退出系统',
     dropdownItemSwitchPassword: '密码修改',
     dropdownItemSwitchDepart: '切换部门',

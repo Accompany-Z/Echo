@@ -96,7 +96,7 @@ export const secureSettingList: ListItem[] = [
   {
     key: '2',
     title: '密保手机',
-    description: '已绑定手机：：138****8293',
+    description: '已绑定手机：：189****9296',
     extra: '修改',
   },
   {
@@ -108,7 +108,7 @@ export const secureSettingList: ListItem[] = [
   {
     key: '4',
     title: '备用邮箱',
-    description: '已绑定邮箱：：ant***sign.com',
+    description: '已绑定邮箱：：echo***look.com',
     extra: '修改',
   },
   {
